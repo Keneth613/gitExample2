@@ -1,2 +1,5 @@
-def kensMethod():
-    print 'Hi, how are you?'
+def kensMethod(x):
+    if x>0:
+        print 'Hi, how are you?'
+    else:
+        print "Go away"
