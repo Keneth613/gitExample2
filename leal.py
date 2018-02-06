@@ -1,1 +1,2 @@
-def leal(
+def leal():
+    print "Hello there!"
