@@ -1,3 +1,3 @@
 def radMethod(i):
     for x in range(i):
-        print("rad is awesome")
+        print("rad is kind of awesome")
